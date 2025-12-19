@@ -242,7 +242,7 @@ Kiro generated complete heuristic evaluation with industry-standard weights. Wit
 **3. Code Quality**
 Kiro suggested elegant functional patterns (map + reverse for rotation) instead of imperative loops. **Better code quality.**
 
-**→ Read complete documentation: [KIRO_USAGE.md](C:\Atharva\retro-revival-tetris\screenshots\KIRO_USAGE.md)**
+**→ Read complete documentation: [KIRO_USAGE.md](/screenshots/KIRO_USAGE.md)**
 
 ---
 
