@@ -213,7 +213,7 @@ Evaluation time: ~40-50ms for 480 positions
 ![Stats Dashboard](screenshots/08-stats-dashboard.png)
 
 ### Kiro Development Process
-![Kiro AI Algorithm](screenshots/04-kiro-ai-algorithm.png)
+![Kiro AI Algorithm](screenshots/03-kiro-ai-algorithm.png)
 
 ---
 
