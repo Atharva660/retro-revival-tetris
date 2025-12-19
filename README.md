@@ -361,9 +361,9 @@ in the Software without restriction...
 
 **Questions? Issues? Feedback?**
 
-- 🐛 Report bugs: [GitHub Issues](YOUR_REPO/issues)
+- 🐛 Report bugs: [GitHub Issues](https://github.com/Atharva660/retro-revival-tetris/issues)
 - 💡 Feature requests: [GitHub Discussions](YOUR_REPO/discussions)
-- 📧 Email: your.email@example.com
+- 📧 Email: atharvapanchal95@gmail.com
 - 💬 Discord: [Join our community](#)
 
 ---
